@@ -1,4 +1,4 @@
-# Welcome, I'm Jorge Zapata
+# Hi, I'm Jorge!
 
 🎓 MS in Business Analytics @ Georgetown University  
 💼 Aspiring Defense-Tech & Public Health Innovator  
