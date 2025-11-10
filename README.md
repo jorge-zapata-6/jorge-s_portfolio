@@ -1,7 +1,9 @@
 # Hi, I'm Jorge!
 
 🎓 MS in Business Analytics @ Georgetown University  
+
 💼 Aspiring data analyst in healthcare, government, and technology 
+
 ⚙️ Skills: Python | SQL | Excel | Tableau | Machine Learning 
 
 ## Projects
